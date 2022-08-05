@@ -1,5 +1,8 @@
-- 🔭 I’m working on improving my skills in python and java, and learning c
-- 🌱 I’m currently getting a bachelor's degree from Dartmouth College with a major in Quantitative Social Science and a minor in Studio Art. 
+- 🔭 I’m proficient in java, python, javascript, html/css, Adobe AEM, and excited to learn more!
+- 🌱 I will graduate in June 2023 with a bachelor's degree from Dartmouth College with a major in Quantitative Social Science and a minor in Studio Art. 
+
+I am currently looking for software enineering or data analyst jobs to start in fall 2023!
+
 - 📫 How to reach me: samantha.r.brant.23@dartmouth.edu
 - 😄 Pronouns: she/her
 
